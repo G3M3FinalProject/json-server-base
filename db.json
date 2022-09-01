@@ -14,6 +14,7 @@
 			"name": "Restaurante da mamãe",
 			"logo-image": "https://i.imgur.com/dP4OMFV.jpg",
 			"category": ["vegan", "zero-lactose", "vegetarian", "zero-gluten"],
+			"description": "Trabalhamos com frutas, verduras e legumes. Produtos frescos pois recebemos diariamente.",
 			"menu": {
 				"food": [
 					{
@@ -107,6 +108,7 @@
 			"name": "Cantinho Vegetariano",
 			"logo-image": "https://i.imgur.com/OJ50kOn.jpg",
 			"category": ["vegan", "zero-lactose", "vegetarian"],
+			"description": "Trabalhamos com frutas, verduras e legumes. Produtos frescos pois recebemos diariamente.",
 			"menu": {
 				"food": [
 					{
@@ -184,6 +186,7 @@
 			"name": "Pizzaria Habitué",
 			"logo-image": "https://i.imgur.com/i5n1w5Z.jpg",
 			"category": ["vegan", "zero-lactose", "vegetarian", "zero-gluten"],
+			"description": " Pìzzas de todos os estilos em que o resultado é crocante e muito delicioso.",
 			"menu": {
 				"food": [
 					{
@@ -276,7 +279,7 @@
 			"name": "Restaurante Campo Novo",
 			"logo-image": "https://i.imgur.com/0cP2KkN.png",
 			"category": ["vegan", "zero-lactose", "vegetarian"],
-
+			"description": "O restaurante tem pratos para todos os gostos. A variedade é grande e traz opções para o dia todo",
 			"menu": {
 				"food": [
 					{
@@ -385,6 +388,7 @@
 			"name": "Vóvó Vegana",
 			"logo-image": "https://i.imgur.com/tGgb9Pe.jpg",
 			"category": ["vegan", "zero-lactose", "vegetarian"],
+			"description": "Tudo é feito artesanalmente e tem vários sabores sem glúten e sem lactose, como o de lichia, leite de coco, matcha com hortelã e melancia...",
 			"menu": {
 				"food": [
 					{
