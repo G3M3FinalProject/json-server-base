@@ -13,6 +13,7 @@
 			"opening-hours": "11:00 às 14:00",
 			"name": "Restaurante da mamãe",
 			"logo-image": "https://i.imgur.com/dP4OMFV.jpg",
+			"category": ["vegan", "zero-lactose", "vegetarian", "zero-gluten"],
 			"menu": {
 				"food": [
 					{
@@ -105,6 +106,7 @@
 			"opening-hours": "10:00 às 15:00",
 			"name": "Cantinho Vegetariano",
 			"logo-image": "https://i.imgur.com/OJ50kOn.jpg",
+			"category": ["vegan", "zero-lactose", "vegetarian"],
 			"menu": {
 				"food": [
 					{
@@ -169,7 +171,7 @@
 						"price": 12,
 						"promo-price": 10,
 						"photo_url": "https://i.imgur.com/AQZfbbe.jpg",
-						"category": ["zero-lactose"],
+						"category": ["zero-lactose", "vegan"],
 						"description": "Alfajor é o tipo de doce-unanimidade. "
 					}
 				]
@@ -181,6 +183,7 @@
 			"opening-hours": "17:00 às 23:00",
 			"name": "Pizzaria Habitué",
 			"logo-image": "https://i.imgur.com/i5n1w5Z.jpg",
+			"category": ["vegan", "zero-lactose", "vegetarian", "zero-gluten"],
 			"menu": {
 				"food": [
 					{
@@ -272,6 +275,8 @@
 			"opening-hours": "11:00 às 21:00",
 			"name": "Restaurante Campo Novo",
 			"logo-image": "https://i.imgur.com/0cP2KkN.png",
+			"category": ["vegan", "zero-lactose", "vegetarian"],
+
 			"menu": {
 				"food": [
 					{
@@ -367,7 +372,7 @@
 						"price": 11,
 						"promo-price": 10,
 						"photo_url": "https://i.imgur.com/Zs0yPAM.jpg",
-						"category": ["zero-gluten", "vegetarian", "zero-lactose"],
+						"category": ["vegetarian", "zero-lactose"],
 						"description": "Esse prato vai leite de coco, raspas de limão, baunilha, fécula de batata, limão e ovos. Além disso..."
 					}
 				]
@@ -379,6 +384,7 @@
 			"opening-hours": "10:00 às 15:00",
 			"name": "Vóvó Vegana",
 			"logo-image": "https://i.imgur.com/tGgb9Pe.jpg",
+			"category": ["vegan", "zero-lactose", "vegetarian"],
 			"menu": {
 				"food": [
 					{
@@ -413,15 +419,15 @@
 						"price": 12,
 						"promo-price": 7,
 						"photo_url": "https://i.imgur.com/E5xgN25.jpg",
-						"category": ["vegetarian", "zero-lactose", "zero-gluten"],
-						"description": "esses churros deliciosos.."
+						"category": ["vegetarian", "zero-lactose"],
+						"description": "Esses churros deliciosos.."
 					},
 					{
 						"item": "Chocotone fit",
 						"price": 30,
 						"promo-price": 24,
 						"photo_url": "https://i.imgur.com/3X8HSfF.jpg",
-						"category": ["zero-gluten", "vegetarian", "zero-lactose"],
+						"category": ["vegetarian", "zero-lactose"],
 						"description": "Se você quiser comer um delicioso Chocotone..."
 					}
 				]
