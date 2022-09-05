@@ -528,6 +528,401 @@
 			},
 			"rate": 5,
 			"id": 5
+		},
+		{
+			"opening-hours": "12:00 às 23:30",
+			"name": "Le Chat Noir",
+			"logo-image": "https://i.imgur.com/Q7pZSiG.png",
+			"category": ["zero-lactose", "vegetarian"],
+			"description": "Todos os nossos pratos maravilhosamente feito com a dedicação do chef..",
+			"menu": {
+				"food": [
+					{
+						"item": "Falafel com molho de tahine",
+						"price": 35,
+						"promo": 20,
+						"photo_url": "https://i.imgur.com/prwWCUx.jpg",
+						"category": ["vegetarian"],
+						"description": "Grão de bico ao molho macerado com ...",
+						"restaurant": "Le Chat Noir",
+						"id": 46
+					},
+					{
+						"item": "Batata-doce frita",
+						"price": 17,
+						"promo-price": 15,
+						"photo_url": "https://i.imgur.com/7ZEk5vA.jpg",
+						"category": ["vegetarian"],
+						"description": "Batata doce cortada em tiras...",
+						"restaurant": "Le Chat Noir",
+						"id": 47
+					},
+					{
+						"item": "Quibe vegetariano de forno",
+						"price": 28,
+						"promo-price": 21,
+						"photo_url": "https://i.imgur.com/44LjrnQ.jpg",
+						"category": ["vegetarian"],
+						"description": "Esse quibe de forno é feito com o tabule...",
+						"restaurant": "Le Chat Noir",
+						"id": 48
+					}
+				],
+				"drinks": [],
+				"deserts": [
+					{
+						"item": "Mousse de Chocolate",
+						"price": 15,
+						"promo-price": 12,
+						"photo_url": "https://i.imgur.com/7JVRfJU.jpg",
+						"category": ["vegetarian"],
+						"description": "Esse maravilhoso mousse..",
+						"restaurant": "Le Chat Noir",
+						"id": 49
+					},
+					{
+						"item": "Brownie",
+						"price": 10,
+						"promo-price": 9,
+						"photo_url": "https://i.imgur.com/a7vJavX.jpg",
+						"category": ["vegetarian"],
+						"description": "Se você quiser comer um delicioso brownie...",
+						"restaurant": "Le Chat Noir",
+						"id": 49
+					}
+				]
+			},
+			"rate": 4.1,
+			"id": 6
+		},
+		{
+			"opening-hours": "07:00 às 12:30",
+			"name": "Hot Coffee",
+			"logo-image": "https://i.imgur.com/MY7TRBR.png",
+			"category": ["zero-lactose"],
+			"description": "Bolos quetinhos para aqueles que possuem intolerancia a lactose...",
+			"menu": {
+				"food": [
+					{
+						"item": "Bolo de milho",
+						"price": 20,
+						"promo": 17,
+						"photo_url": "https://i.imgur.com/3h5lWOx.jpg",
+						"category": ["zero-lactose"],
+						"description": "Bolo de milho quentinho saído do forno ...",
+						"restaurant": "Hot Coffee",
+						"id": 50
+					},
+					{
+						"item": "Bolo de cenoura com cobertura de chocolate",
+						"price": 18,
+						"promo-price": 17,
+						"photo_url": "https://i.imgur.com/qaOwdZ8.jpg",
+						"category": ["zero-lactose"],
+						"description": "Bolo de cenoura quentinho saído do forno...",
+						"restaurant": "Hot Coffee",
+						"id": 51
+					},
+					{
+						"item": "Bolo de Prestígio",
+						"price": 22,
+						"promo-price": 21,
+						"photo_url": "https://i.imgur.com/kzJBRqy.jpg",
+						"category": ["zero-lactose"],
+						"description": "Bolo de prestígio...",
+						"restaurant": "Hot Coffee",
+						"id": 52
+					}
+				],
+				"drinks": [
+					{
+						"item": "Café Espresso",
+						"price": 7,
+						"promo-price": 6.5,
+						"photo_url": "https://i.imgur.com/vJ5aG6y.png",
+						"category": ["zero-lactose"],
+						"description": "Esse maravilhoso café..",
+						"restaurant": "Hot Coffee",
+						"id": 53
+					},
+					{
+						"item": "Café com pasta de amendoim",
+						"price": 12,
+						"promo-price": 10,
+						"photo_url": "https://i.imgur.com/bVykET6.jpg",
+						"category": ["zero-lactose"],
+						"description": "Esse maravilhoso café..",
+						"restaurant": "Hot Coffee",
+						"id": 54
+					}
+
+				],
+				"deserts": []
+			},
+			"rate": 4.9,
+			"id": 7
+		},
+		{
+			"opening-hours": "19:00 às 23:00",
+			"name": "Salgado e Cia",
+			"logo-image": "https://i.imgur.com/dVBoWlT.png",
+			"category": ["vegan"],
+			"description": "Saladas das mais diversas...",
+			"menu": {
+				"food": [
+					{
+						"item": "Salada de grão de bico",
+						"price": 15,
+						"promo": 12,
+						"photo_url": "https://i.imgur.com/H8782D7.jpg",
+						"category": ["vegan"],
+						"description": "Uma salada fresquinha de grão...",
+						"restaurant": "Salgado e Cia",
+						"id": 55
+					},
+					{
+						"item": "Salada árabe com pão sírio",
+						"price": 18,
+						"promo-price": 17,
+						"photo_url": "https://i.imgur.com/cqzYDql.jpg",
+						"category": ["vegan"],
+						"description": "Uma salada fresquinha de grãos com pão árabe...",
+						"restaurant": "Salgado e Cia",
+						"id": 56
+					},
+					{
+						"item": "Cuscuz marroquino com legumes",
+						"price": 20,
+						"promo-price": 15,
+						"photo_url": "https://i.imgur.com/yKs5RUn.jpg",
+						"category": ["vegan"],
+						"description": "Um cuzcuz muito bem preparado por nosso...",
+						"restaurant": "Salgado e Cia",
+						"id": 57
+					},
+					{
+						"item": "Cuscuz marroquino com legumes",
+						"price": 20,
+						"promo-price": 15,
+						"photo_url": "https://i.imgur.com/yKs5RUn.jpg",
+						"category": ["vegan"],
+						"description": "Um cuzcuz muito bem preparado por nosso...",
+						"restaurant": "Salgado e Cia",
+						"id": 58
+					}
+					
+				],
+				"drinks": [
+					{
+						"item": "Detox de Clorofila",
+						"price": 10,
+						"promo-price": 8,
+						"photo_url": "https://i.imgur.com/Gz8EXid.jpg",
+						"description": "Suco detox que ajuda na... ",
+						"restaurant": "Salgado e Cia",
+						"id": 59
+					},
+					{
+						"item": "Detox de Maçã",
+						"price": 12,
+						"promo-price": 10,
+						"photo_url": "https://i.imgur.com/iVyiEzU.jpg",
+						"description": "Suco detox de maçã que é usado...",
+						"restaurant": "Salgado e Cia",
+						"id": 60
+					}
+
+				],
+				"deserts": []
+			},
+			"rate": 5,
+			"id": 8
+		},
+		{
+			"opening-hours": "17:00 às 22:00",
+			"name": "Bernardo Bar",
+			"logo-image": "https://i.imgur.com/vLGb7PK.png",
+			"category": ["vegetarian"],
+			"description": "Peticos mais variados para sua party...",
+			"menu": {
+				"food": [
+					{
+						"item": "Pão de alho recheado com queijo",
+						"price": 15,
+						"promo": 12,
+						"photo_url": "https://i.imgur.com/2dNsYqq.jpg",
+						"category": ["vegetarian"],
+						"description": "Um pão de alho bem assado...",
+						"restaurant": "Bernardo Bar",
+						"id": 61
+					},
+					{
+						"item": "Mini baked potato com catupiry",
+						"price": 15,
+						"promo-price": 14,
+						"photo_url": "https://i.imgur.com/YcvHhtC.jpg",
+						"category": ["vegetarian"],
+						"description": "Pequenas batatas recheadas com catupiry...",
+						"restaurant": "Bernardo Bar",
+						"id": 62
+					},
+					{
+						"item": "Onion rings",
+						"price": 12,
+						"promo-price": 11,
+						"photo_url": "https://i.imgur.com/0E1eFi0.jpg",
+						"category": ["vegetarian"],
+						"description": "Anéis de cebola empanados...",
+						"restaurant": "Bernardo Bar",
+						"id": 63
+					},
+					{
+						"item": "Dadinho de tapioca",
+						"price": 10,
+						"promo-price": 8,
+						"photo_url": "https://i.imgur.com/1K4wKfV.jpg",
+						"category": ["vegetarian"],
+						"description": "Pequenos cubos de tapioca bem fritinhos...",
+						"restaurant": "Bernardo Bar",
+						"id": 64
+					},
+					{
+						"item": "Nachos com guacamole",
+						"price": 13,
+						"promo-price": 10,
+						"photo_url": "https://i.imgur.com/hhkPd7P.jpg",
+						"category": ["vegetarian"],
+						"description": "Abacate muito bem batido com pequenas tortillas...",
+						"restaurant": "Bernardo Bar",
+						"id": 65
+					}
+					
+					
+				],
+				"drinks": [
+					{
+						"item": "Suco de Tangerina",
+						"price": 18,
+						"promo-price": 12,
+						"photo_url": "https://i.imgur.com/uNUPWkN.jpg",
+						"description": "Suco de tangerina... ",
+						"restaurant": "Bernardo Bar",
+						"id": 66
+					},
+					{
+						"item": "Suco de Uva",
+						"price": 18,
+						"promo-price": 12,
+						"photo_url": "https://i.imgur.com/qn2JiFQ.jpg",
+						"description": "Suco de uva colhido...",
+						"restaurant": "Bernardo Bar",
+						"id": 67
+					},
+					{
+						"item": "Guaraná",
+						"price": 7,
+						"promo-price": 5,
+						"photo_url": "https://i.imgur.com/FvwIEWo.jpg",
+						"description": "Toda refeicao pede um guaraná...",
+						"restaurant": "Bernardo Bar",
+						"id": 68
+					},
+					{
+						"item": "Suco de Melancia",
+						"price": 10,
+						"promo-price": 9,
+						"photo_url": "https://i.imgur.com/cqYuVBm.jpg",
+						"description": "Toda refeicao pede um suco de melancia...",
+						"restaurant": "Bernardo Bar",
+						"id": 69
+					}
+				],
+				"deserts": []
+			},
+			"rate": 4.7,
+			"id": 9
+		},
+		{
+			"opening-hours": "19:00 às 00:00",
+			"name": "Solstício",
+			"logo-image": "https://i.imgur.com/6eO0kHD.png",
+			"category": ["zero-gluten"],
+			"description": "Comidas Zero Gluten...",
+			"menu": {
+				"food": [
+					{
+						"item": "Quibe de quinoa",
+						"price": 9,
+						"promo": 5,
+						"photo_url": "https://i.imgur.com/4wZiKP9.jpg",
+						"category": ["zero-gluten"],
+						"description": "Um quibe de quinoa...",
+						"restaurant": "Solstício",
+						"id": 70
+					},
+					{
+						"item": "Focaccia sem Glúten",
+						"price": 10,
+						"promo-price": 4,
+						"photo_url": "https://i.imgur.com/eNkcQJ1.jpg",
+						"category": ["zero-gluten"],
+						"description": "Uma deliciosa foccacia...",
+						"restaurant": "Solstício",
+						"id": 71
+					},
+					{
+						"item": "Empadinha de frango sem Glúten",
+						"price": 7,
+						"promo-price": 5,
+						"photo_url": "https://i.imgur.com/Bmr91L2.jpg",
+						"category": ["zero-gluten"],
+						"description": "Empadinhas de frango bem...",
+						"restaurant": "Solstício",
+						"id": 72
+					}
+				],
+				"drinks": [
+					{
+						"item": "Suco de Tangerina",
+						"price": 18,
+						"promo-price": 12,
+						"photo_url": "https://i.imgur.com/uNUPWkN.jpg",
+						"description": "Suco de tangerina... ",
+						"restaurant": "Bernardo Bar",
+						"id": 66
+					},
+					{
+						"item": "Suco de Uva",
+						"price": 18,
+						"promo-price": 12,
+						"photo_url": "https://i.imgur.com/qn2JiFQ.jpg",
+						"description": "Suco de uva colhido...",
+						"restaurant": "Bernardo Bar",
+						"id": 67
+					},
+					{
+						"item": "Guaraná",
+						"price": 7,
+						"promo-price": 5,
+						"photo_url": "https://i.imgur.com/FvwIEWo.jpg",
+						"description": "Toda refeicao pede um guaraná...",
+						"restaurant": "Bernardo Bar",
+						"id": 68
+					},
+					{
+						"item": "Suco de Melancia",
+						"price": 10,
+						"promo-price": 9,
+						"photo_url": "https://i.imgur.com/cqYuVBm.jpg",
+						"description": "Toda refeicao pede um suco de melancia...",
+						"restaurant": "Bernardo Bar",
+						"id": 69
+					}
+				],
+				"deserts": []
+			},
+			"rate": 4.2,
+			"id": 10
 		}
 	]
 }
