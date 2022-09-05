@@ -888,8 +888,8 @@
 						"promo-price": 12,
 						"photo_url": "https://i.imgur.com/uNUPWkN.jpg",
 						"description": "Suco de tangerina... ",
-						"restaurant": "Bernardo Bar",
-						"id": 66
+						"restaurant": "Solstício",
+						"id": 73
 					},
 					{
 						"item": "Suco de Uva",
@@ -897,8 +897,8 @@
 						"promo-price": 12,
 						"photo_url": "https://i.imgur.com/qn2JiFQ.jpg",
 						"description": "Suco de uva colhido...",
-						"restaurant": "Bernardo Bar",
-						"id": 67
+						"restaurant": "Solstício",
+						"id": 74
 					},
 					{
 						"item": "Guaraná",
@@ -906,8 +906,8 @@
 						"promo-price": 5,
 						"photo_url": "https://i.imgur.com/FvwIEWo.jpg",
 						"description": "Toda refeicao pede um guaraná...",
-						"restaurant": "Bernardo Bar",
-						"id": 68
+						"restaurant": "Solstício",
+						"id": 75
 					},
 					{
 						"item": "Suco de Melancia",
@@ -915,8 +915,8 @@
 						"promo-price": 9,
 						"photo_url": "https://i.imgur.com/cqYuVBm.jpg",
 						"description": "Toda refeicao pede um suco de melancia...",
-						"restaurant": "Bernardo Bar",
-						"id": 69
+						"restaurant": "Solstício",
+						"id": 76
 					}
 				],
 				"deserts": []
